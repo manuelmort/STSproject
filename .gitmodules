@@ -1,0 +1,3 @@
+[submodule "STSweb"]
+	path = STSweb
+	url = https://github.com/manuelmort/STSweb.git

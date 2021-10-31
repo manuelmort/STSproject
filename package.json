@@ -1,0 +1,14 @@
+{
+  "name": "stsproject",
+  "version": "1.0.0",
+  "description": "Website for STS ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Mern"
+  ],
+  "author": "Manuel Morteo",
+  "license": "ISC"
+}
